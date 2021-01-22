@@ -1,11 +1,15 @@
 # react-learning-group
 
-**Goal**: 
-  - Learn the source code and improve our React progrogramming skills.
-  - Make new friends
-**Scheule**: Please refre to schedule
-**Time**: NYC 12:00p.m ~13:00p.m
-**How**: Review materials in turn by team members, help each other to solve the puzzles
+- **Goal**: 
+    - To be a React pro
+    - Make new friends
+- **Scheule**: Please refre to [schedule](Schedule.md)
+- **Time**: NYC 12:00p.m ~13:00p.m
+- **How**: Group chat synchronously to review materials, solve problems and recap in turn.
+
+## Tools
+
+If you can't find what is your local time, please use  https://www.worldtimebuddy.com/ to check.
 
 ## Materials
 
