@@ -13,7 +13,7 @@ If you can't find what is your local time, please use  https://www.worldtimebudd
 
 ## Materials
 
-The React course materials based on the schedule:
+The materials:
 
 >1. React fundamentals: https://github.com/kentcdodds/react-fundamentals
 >2. React hooks: https://github.com/kentcdodds/react-hooks
