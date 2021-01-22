@@ -5,7 +5,7 @@
     - Make new friends
 - **Scheule**: Please refre to [schedule](Schedule.md)
 - **Time**: NYC 12:00p.m ~13:00p.m
-- **How**: Group chat synchronously to review materials, solve problems and recap in turn.
+- **How**: Group call synchronously. To review materials together, help each other's. and make presentations in turn.
 
 ## Tools
 
