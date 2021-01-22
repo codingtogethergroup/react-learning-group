@@ -3,7 +3,7 @@
 - **Goal**: 
     - To be a React pro
     - Make new friends
-- **Scheule**: Please refre to [schedule](Schedule.md)
+- **Schedule**: Please refer to the [schedule](Schedule.md)
 - **Time**: NYC 12:00p.m ~13:00p.m
 - **How**: Group call synchronously. To review materials together, help each other's. and make presentations in turn.
 
